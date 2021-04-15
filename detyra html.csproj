@@ -67,11 +67,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ush 1.html" />
+    <Content Include="Home.html" />
     <Content Include="img\img.jpg" />
-    <Content Include="ush 2.html" />
-    <Content Include="ush 3.html" />
-    <Content Include="ush 4.html" />
+    <Content Include="LogIn.html" />
+    <Content Include="Register.html" />
+    <Content Include="ChangePass.html" />
+    <Content Include="ush 6.html" />
+    <Content Include="ush 7.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
